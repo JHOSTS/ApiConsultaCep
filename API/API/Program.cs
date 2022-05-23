@@ -56,7 +56,7 @@ namespace API
                         File.AppendAllLines(path2, ceps);
 
 
-                        Console.WriteLine("\n\nSe quiser finalizar digite 'Fechar'. Se for continuar digite 'Continuar'");
+                        Console.WriteLine($"\n\nDiretório criado: {path}\n\nSe quiser finalizar digite 'Fechar'. Se for continuar digite 'Continuar'");
                         var fim = Console.ReadLine();
                         if (fim.ToUpper() == "Fechar".ToUpper())
                         {
