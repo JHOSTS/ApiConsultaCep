@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QXx1Z/OLuXmncXDtsfKfsN+/eBWUFPjzgNkWmCU53vbG/bQvsL2qZ9BDwYAxNNN0UxtI86ChiRf0WYXSJJu5tA==",
+  "dgSpecHash": "dKWSw/hLUcGXx2ga2kzM0FRDFWKRM7UFZ9ZECuV/guccydNujqvI0CogLZg2ACj/TUxa4teDdyeLf9HdeGOlsA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jdds_\\source\\repos\\API\\API\\API.csproj",
+  "projectFilePath": "C:\\ProjPessoal\\API\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jdds_\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\Jdds_\\.nuget\\packages\\refit\\6.3.2\\refit.6.3.2.nupkg.sha512",
